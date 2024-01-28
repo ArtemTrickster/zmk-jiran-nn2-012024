@@ -11,6 +11,7 @@
 #define DEF 0
 #define FN 1
 #define GAME 2
+#define SPECIALGAME 3
 
 / {
         keymap {
